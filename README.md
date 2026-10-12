@@ -25,6 +25,15 @@ AI 落地创作者 · 小红书「小麦果汁」· 在 GitHub 把好用的工�
 | **Guozhi Review** | 面向初学者的 Skill 审核器：讲人话、给建议或安全修改副本 | [guozhi-review](https://github.com/GZ-L/guozhi-review) |
 | **Agent Cardroom** | 本地虚拟筹码扑克插件（德州 / 炸金花），纯娱乐 | [agent-cardroom](https://github.com/GZ-L/agent-cardroom) |
 
+### 新上架
+
+| Skill | 仓库 |
+| --- | --- |
+| 视频剪辑包装 | [guozhi-video-editing](https://github.com/GZ-L/guozhi-video-editing) |
+| 脚本总控 Agent | [guozhi-hihi-script-agent](https://github.com/GZ-L/guozhi-hihi-script-agent) |
+| 电商短视频 Agent | [video-agent](https://github.com/GZ-L/video-agent) |
+| PPT 生产工作流 | [ppt-pro-skill](https://github.com/GZ-L/ppt-pro-skill) |
+
 > 学习日志与日常工作台还在路上，先把能装能用的 Skill 放在前面。
 
 ---
@@ -39,6 +48,8 @@ AI 落地创作者 · 小红书「小麦果汁」· 在 GitHub 把好用的工�
 
 - GitHub：[GZ-L](https://github.com/GZ-L)
 - 小红书：搜索「小麦果汁」——教程、拆解与落地笔记会先发那里
+- 学习日志：[guozhi-learning-log](https://github.com/GZ-L/guozhi-learning-log)
+- 创作者工作台：[guozhi-creator-workbench](https://github.com/GZ-L/guozhi-creator-workbench)
 
 有想法、想共创 Skill，或发现安装问题，欢迎开 Issue。
 
